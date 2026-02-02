@@ -30,9 +30,9 @@ Projects & Tasks stored in Redux store
 No prop drilling
 
 Installation
-git clone https://github.com/hetal149/Task-management.git
-cd task-management
-npm install
+git clone https://github.com/hetal149/Task-management.git >
+cd Task-management >
+npm install >
 npm run dev or npm build && npm start
 
 🧭 How to Use
